@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="meditation-spiritual-girl" size="1.000000 0.756002" />
+    <ImageTarget name="bonacibo-cat-lamb-rice" size="1.000000 1.799775" />
+    <ImageTarget name="castelul-peles-mockup" size="1.000000 0.752577" />
+    <ImageTarget name="Coloseum" size="1.000000 0.755682" />
+    <ImageTarget name="We-are-all-travelers" size="1.000000 1.338839" />
+    <ImageTarget name="Lago-di-Braies_c62cc0d4-6d6f-4023-aa33-a6fb81486977" size="1.000000 1.357179" />
+    <ImageTarget name="Tablou-iceberg-succes" size="1.000000 1.363454" />
+    <ImageTarget name="poza4" size="1.000000 1.332500" />
+    <ImageTarget name="poza3" size="1.000000 1.777778" />
+    <ImageTarget name="poza2" size="1.000000 1.777778" />
+    <ImageTarget name="poza1" size="1.000000 1.777778" />
+  </Tracking>
+</QCARConfig>
